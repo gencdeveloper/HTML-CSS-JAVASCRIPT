@@ -1,0 +1,33 @@
+body{font-family: source sans pro;
+	font-size: 14px;
+	border: 20px solid #bdc3c7;
+	max-width: 700px;
+	width: 80%;
+	padding: 20px;
+    margin: 20px auto;
+}
+h3{ 
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+
+}
+
+h2{
+	color: #2c3e50;
+}
+
+hr{
+	padding-right: 30px;
+	padding-left:30px;
+}
+
+#border{
+	border-left:5px solid #bdc3c7;
+	padding-left:5px;
+	
+}
+
+p{
+	
+}
